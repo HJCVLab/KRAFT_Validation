@@ -172,3 +172,4 @@ Please cite the archived software release as:
 
 ```text
 Myung, S., & Kim, H. J. (2026). KRAFT Validation and Reuse Code (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21320079
+```
