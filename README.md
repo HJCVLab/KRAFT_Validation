@@ -1,5 +1,5 @@
 # KRAFT Validation and Reuse Code
-[[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21320079.svg)](https://doi.org/10.5281/zenodo.21320079)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21320079.svg)](https://doi.org/10.5281/zenodo.21320079)
 
 This repository contains the reproducible Python scripts used for the Technical Validation section of the KRAFT manuscript, together with examples for linking apartment transaction records to monthly school-count and annual private-education indicators.
 
