@@ -6,6 +6,7 @@ __pycache__/
 # PyCharm
 .idea/
 
+
 # OS files
 .DS_Store
 Thumbs.db
