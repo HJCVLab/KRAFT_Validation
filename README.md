@@ -6,12 +6,13 @@ This repository contains the reproducible Python scripts used for the Technical 
 
 ## Release metadata
 
-| Item | Value |
-|---|---|
-| Version | 1.0 |
-| Authors | Sejin Myung; Hyungjoon Kim |
-| Release status | Public release archived on Zenodo |
-| Code DOI | [10.5281/zenodo.21320079](https://doi.org/10.5281/zenodo.21320079) |
+| Item             | Value |
+|------------------|---|
+| Version          | 1.0 |
+| Authors          | Sejin Myung; Hyungjoon Kim |
+| Release status   | Public release archived on Zenodo |
+| Dataset DOI | 10.5281/zenodo.21320079 |
+| Repository URL   | https://github.com/HJCVLab/KRAFT_Validation |
 
 ## Repository scope
 
@@ -171,5 +172,5 @@ The scripts do not modify the original dataset. All validation results are writt
 Please cite the archived software release as:
 
 ```text
-Myung, S., & Kim, H. J. (2026). KRAFT Validation and Reuse Code (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21320079
+Myung, S., & Kim, H. J. (2026). KRAFT Validation and Reuse Code (Version 1.0). GitHub. https://github.com/HJCVLab/KRAFT_Validation
 ```
