@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset archives and generated outputs
+KRAFT_v*.zip
+K_APT_v*.zip
+*.zip
+outputs/
+KRAFT_*_Descriptive_Statistics*.csv
+KRAFT_*_Counts.csv
+KRAFT_*_Coverage.csv
+KRAFT_*_Summary.csv
+KRAFT_Figure*.png
+KRAFT_Section_*.md
+KRAFT_Metadata_*.csv
+KRAFT_Source_Metadata_Coverage.csv
+KRAFT_Variable_Dictionary_Coverage.csv
+
+# Keep archived reproducibility outputs and small examples in Git
+!validation_outputs/
+!validation_outputs/**
+!examples/
+!examples/**

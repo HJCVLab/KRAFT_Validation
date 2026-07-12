@@ -1,0 +1,9 @@
+﻿File,Present,Status,Notes
+README.md,True,Pass,
+LICENSE,True,Pass,
+CITATION.cff,True,Pass,
+Variable_Dictionary.csv,True,Pass,
+Source_Metadata.csv,True,Pass,
+Region_Mapping.csv,True,Pass,
+Validation_Report.csv,True,Pass,
+Preprocessing_Summary.md,True,Pass,

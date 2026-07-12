@@ -1,0 +1,17 @@
+﻿Component,Source_File,Variable,Observation_Level,N,Mean,Std.,Min,Q1,Median,Q3,Max
+Macro-financial,Data/Macroeconomic/Interest_Rates.csv,Base_Rate_Percent,National-month,120,1.773,0.982,0.5,1.25,1.5,2.062,3.5
+Macro-financial,Data/Macroeconomic/Interest_Rates.csv,Mortgage_Rate_Avg_Percent,National-month,120,3.328,0.647,2.39,2.81,3.215,3.858,4.82
+Macro-financial,Data/Macroeconomic/Exchange_Rate.csv,Exchange_Rate_KRW_per_USD,National-month,120,1197.295,92.863,1066.7,1125.28,1175.465,1270.095,1434.42
+Macro-financial,Data/Macroeconomic/M2.csv,M2_Money_Supply_Billion_KRW,National-month,120,2890115.638,630111.359,1949424.5,2335533.675,2730220.95,3555841.425,3900070.9
+Macro-financial,Data/Macroeconomic/CPI.csv,CPI_2020_100,National-month,120,102.282,6.392,94.587,97.56,99.756,108.315,114.91
+Housing price index,Data/Housing_index/HPI.csv,HPI_2021_06_100,Sido-month,2040,93.52,10.692,64.6,88.1,95.3,101.0,115.3
+Demographic,Data/Demographic/Population_Density_Sido.csv,Population_Density,Sido-year,170,2121.685,3676.98,90.2,221.775,744.3,2771.275,16364.0
+Demographic,Data/Demographic/Total_Households_Sido.csv,Total_Households,Sido-year,170,1250429.935,1309122.572,76419.0,617758.0,794720.0,1240971.75,5827597.0
+Demographic,Data/Demographic/Total_Population_Sigungu.csv,Total_Population,Sigungu-year,2496,204072.595,161524.064,8169.0,56594.5,174825.0,314599.25,1004079.0
+Demographic,Data/Demographic/Net_Migration_Sido.csv,Net_Migration,Sido-month,2040,0.0,3417.636,-17393.0,-1001.0,-242.0,608.25,21855.0
+Education,Data/Education/Education_Monthly_Sigungu.csv,Total_School_Count,Sigungu-month,27480,53.512,36.133,6.0,29.0,44.0,64.0,236.0
+Education,Data/Education/Private_Education_Cost_Sigungu.csv,Private_Education_Expense_10k_KRW,Sigungu-year,2520,31.218,10.508,16.0,24.7,29.0,39.1,67.3
+Consumer sentiment,Data/Sentiment/CSI_Economy.csv,CSI_Economy,Sido-month,2040,81.634,12.96,50.0,74.0,81.0,90.0,114.0
+Consumer sentiment,Data/Sentiment/CSI_Housing.csv,CSI_Housing,Sido-month,2040,105.975,15.419,60.0,98.0,107.0,117.0,137.0
+Consumer sentiment,Data/Sentiment/CSI_Rate.csv,CSI_Rate,Sido-month,2040,112.536,18.521,70.0,96.0,113.0,126.0,153.0
+Economic policy uncertainty,Data/Sentiment/Policy_Uncertainty.csv,Economic_Policy_Uncertainty_Index,National-month,120,204.733,102.349,71.157,137.784,188.652,249.604,872.877

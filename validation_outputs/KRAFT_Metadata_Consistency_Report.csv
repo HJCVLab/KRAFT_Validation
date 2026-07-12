@@ -1,0 +1,10 @@
+﻿Check_ID,Category,Validation_Item,Observed_Result,Status,Notes
+META_4_5_001,Documentation,Required documentation files present,8 of 8 expected files present,Pass,
+META_4_5_002,Source metadata,Actual data files documented in Source_Metadata.csv,25 of 25 data files documented,Pass,
+META_4_5_003,Variable dictionary,Actual file columns documented in Variable_Dictionary.csv,224 of 224 file-column pairs documented,Pass,
+META_4_5_004,Source metadata,Released_Variables listed in Source_Metadata.csv exist in matched data files,152 of 152 released-variable entries present,Pass,Generic descriptions such as 'Sido-level ... variables' are not treated as literal column names; list the actual released columns when exact variable-level validation is intended.
+META_4_5_005,Region mapping,Region_Mapping.csv contains documented harmonization cases,7 mapping rows,Pass,
+META_4_5_006,Validation report,Validation_Report.csv status summary,Pass: 19,Pass,
+META_4_5_007,Package cleanliness,No .DS_Store files in final package,0 .DS_Store file(s) detected,Pass,
+META_4_5_008,Package naming,Transaction files use final KRAFT naming convention,KRAFT transaction naming detected,Pass,
+META_4_5_009,Package structure,Code directory status,No Code/ directory detected,Pass,Validation code may be released separately through Git. An empty Code/ directory should not remain in the data package.
