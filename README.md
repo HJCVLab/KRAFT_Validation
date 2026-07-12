@@ -1,4 +1,5 @@
 # KRAFT Validation and Reuse Code
+[[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21320079.svg)](https://doi.org/10.5281/zenodo.21320079)
 
 This repository contains the reproducible Python scripts used for the Technical Validation section of the KRAFT manuscript, together with examples for linking apartment transaction records to monthly school-count and annual private-education indicators.
 
@@ -9,8 +10,8 @@ This repository contains the reproducible Python scripts used for the Technical 
 |---|---|
 | Version | 1.0 |
 | Authors | Sejin Myung; Hyungjoon Kim |
-| Release status | Pre-release metadata; Git release date and archive DOI pending |
-| Code DOI | To be added after repository archiving |
+| Release status | Public release archived on Zenodo |
+| Code DOI | [10.5281/zenodo.21320079](https://doi.org/10.5281/zenodo.21320079) |
 
 ## Repository scope
 
@@ -167,10 +168,7 @@ The scripts do not modify the original dataset. All validation results are writt
 
 ## Citation
 
-Recommended citation before DOI registration:
+Please cite the archived software release as:
 
 ```text
-Myung, S., & Kim, H. J. (2026). KRAFT Validation and Reuse Code. Version 1.0.
-```
-
-The immutable Git release URL, commit hash, archive DOI, and final public release date will be added after repository registration.
+Myung, S., & Kim, H. J. (2026). KRAFT Validation and Reuse Code (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21320079

@@ -1,21 +1,30 @@
+```yaml
 cff-version: 1.2.0
-message: "If you use the KRAFT validation and reuse code, please cite version 1.0 using the metadata below. The code archive DOI and public release date will be added after repository registration."
+message: "If you use the KRAFT validation and reuse code, please cite the archived software release using the metadata below."
 title: "KRAFT Validation and Reuse Code"
 type: software
+
 authors:
   - family-names: "Myung"
     given-names: "Sejin"
   - family-names: "Kim"
     given-names: "Hyungjoon"
     orcid: "https://orcid.org/0000-0003-4580-489X"
+
 version: "1.0"
+doi: "10.5281/zenodo.21320079"
+repository-code: "https://github.com/HJCVLab/KRAFT_Validation"
+url: "https://doi.org/10.5281/zenodo.21320079"
+
 abstract: "Python code for technical validation, figure generation, metadata consistency checks, and education-indicator merge examples for the KRAFT dataset."
+
 keywords:
   - "KRAFT"
   - "housing data"
   - "technical validation"
   - "data integration"
   - "South Korea"
+
 preferred-citation:
   type: software
   title: "KRAFT Validation and Reuse Code"
@@ -27,3 +36,6 @@ preferred-citation:
       orcid: "https://orcid.org/0000-0003-4580-489X"
   version: "1.0"
   year: 2026
+  doi: "10.5281/zenodo.21320079"
+  publisher:
+    name: "Zenodo"
